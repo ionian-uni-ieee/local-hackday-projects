@@ -1,7 +1,12 @@
-# Github Local Hackday Projects
+# Github Local Hackday Project
 
-## Οδηγίες για να βάλετε το Project σας
-1. Κάντε **fork** το **repository**
-2. Δημιουργήστε ένα φάκελο με το όνομα που επιλέξατε για το Project και την ομάδα σας
-3. Βάλτε μέσα τα αρχεία του Project σας
-4. Κάντε pull request για να πάρουμε τις αλλαγές που κάνατε στο fork σας
+## THE MATRIX RAIN
+
+Our project is inspired by the code of [Emily Xie](https://github.com/emilyxxie/green_rain)
+Also by the Youtube channel for programmers [The Coding Train](https://www.youtube.com/watch?v=S1TQCi9axzg&fbclid=IwAR399JfHEPRabzIQU5qaGPNkcvL2wMG3EAoha1KZVnxXz-UdBeofx514iU0)
+
+Project members
+Papapostolou Mirto
+Gkania Kwnstantina
+Tranti Eleni
+
